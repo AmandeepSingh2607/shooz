@@ -1,0 +1,87 @@
+
+@media screen and (max-width: 413px) {
+    body {
+      
+      background-color: rgb(255, 255, 255);
+    }
+    .main{
+        width: 100%;
+        overflow: hidden;
+    }
+    .nav-head .logo img{
+        width: 120px;
+        height: 75px;
+    }
+    .hemburger{
+        padding: 1.4rem;
+    }
+    .shoes-slogan{
+ padding-left: 20px;
+ height: 400px;
+ /* background-color: red; */
+    }
+    .slogan {
+        padding-top: 20px;
+        font-size: 2.4rem;
+        text-transform: uppercase;
+        font-weight: 600;
+       
+    }
+    .space {
+        width: 100%;
+        height: 100px;
+    }
+    /* .prop-con{
+        display: grid;
+        gap: 0px;
+        grid-template-columns: repeat(1 , 1fr);
+        
+     } */
+     .img-size{
+        width:330px;
+        height: 700px;
+     }
+     .correction-gap{
+        /* background-color: green; */
+        /* padding-top: -20px; */
+        padding: 50px;
+        /* padding-top: -150px; */
+     }
+
+     .button-1{
+       
+        padding-top:40px;
+        padding: 66px;
+     }
+     .space-1{
+        height: 0px;
+     }
+     .logo-section{
+        display: block;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+     }
+     .onelogo img{
+        width: 176px;
+     }
+     .container-4{
+height: 80%;
+     }
+     .copyright{
+        padding: 0px;
+     }
+     .info-text{
+        display: block;
+        position: relative;
+     }
+    
+        .button-4 {
+            position: absolute;
+            top: 30px;
+            left: 240px;
+            /* background: #000; */
+        }
+       
+  
+
+  }
